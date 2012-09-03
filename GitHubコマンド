@@ -2,3 +2,6 @@ cd /Volumes/WORK/ict/workspace/Daily
 git add .
 git commit -m 'commit message'
 git push
+
+
+git status
